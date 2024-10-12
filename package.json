@@ -16,7 +16,7 @@
   "author": "angeloslex",
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "^0.41.2"
+    "react-native": "^0.75.0"
   },
   "devDependencies": {
     "@types/jest": "^26.0.15",
